@@ -1,4 +1,4 @@
-# test-app
+# CRUD App
 
 ## Project setup
 ```
