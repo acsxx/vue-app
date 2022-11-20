@@ -1,4 +1,4 @@
-# CRUD App
+# CRUD App (Products)
 
 ## Project setup
 ```
